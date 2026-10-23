@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+</head>
+<body>
+    <h1>Welcome to My Website!</h1>
+    <p>Hello! I created my first project on GitHub.</p>
+    <button onclick="alert('Hello!')">Click Me</button>
+</body>
+</html>
